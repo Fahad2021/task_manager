@@ -1,4 +1,4 @@
 from django.contrib import admin
-from .models import Todoitem
+from .models import ToDoItem
 
-admin.site.register(Todoitem)
+admin.site.register(ToDoItem)
