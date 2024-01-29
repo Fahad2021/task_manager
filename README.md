@@ -9,6 +9,8 @@ Task Manager api create
 #### py manage.py runserver
 #### user: admin password: admin
 ![data set ](https://github.com/Fahad2021/task_manager/assets/77447208/d20ef3ae-a9be-4c50-816f-9b865367b53a)
+![restapi](https://github.com/Fahad2021/task_manager/assets/77447208/c60f6085-31b1-45fe-9ad6-7746ebc0cd63)
+
 
  
 
